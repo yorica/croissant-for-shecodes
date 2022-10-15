@@ -1,3 +1,6 @@
+body {
+  background: bisque;
+}
 h1 {
   text-align: center;
   color: rgb(83, 39, 16);
@@ -11,8 +14,10 @@ p {
   margin: 10px auto;
 }
 
-a {
+a.nav {
   padding: 10px;
+  color: rgb(83, 39, 16);
+  text-decoration: none;
 }
 
 .main {
